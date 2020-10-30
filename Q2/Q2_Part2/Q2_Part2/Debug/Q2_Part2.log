@@ -1,11 +1,16 @@
-﻿  Q1.cpp
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(40,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(42,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(44,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(45,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(46,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(48,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(50,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(52,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q1.cpp(55,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+﻿  Q2.cpp
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(40,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(42,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(44,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(45,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(46,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(48,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(50,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(52,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(55,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(62,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(63,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(65,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(210,23): warning C4018: '<': signed/unsigned mismatch
+C:\src\CSC5270_HW4\Q2\Q2_Part2\Q2_Part2\Q2.cpp(230,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Q2_Part2.vcxproj -> C:\src\CSC5270_HW4\Q2\Q2_Part2\Debug\Q2_Part2.exe
